@@ -5032,7 +5032,7 @@
        y="543.95801"
        x="1107.4984"
        id="image42063"
-       xlink:href="file:///home/celebdor/Documents/devconf/network_tab.png"
+       xlink:href="./network_tab.png"
        height="9.0578346"
        width="16.515713" />
     <rect
@@ -7719,7 +7719,7 @@
        y="508.1116"
        x="1107.4869"
        id="image48801"
-       xlink:href="file:///home/celebdor/Documents/devconf/network_subtab.png"
+       xlink:href="./network_subtab.png"
        height="9.0698709"
        width="16.537657" />
     <rect
