@@ -12,4 +12,5 @@
      }
 },
 {},
-{'connectivityCheck': 'true', 'connectivityTimeout': 120}
+{'connectivityCheck': 'true',
+ 'connectivityTimeout': 120}

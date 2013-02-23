@@ -16,5 +16,6 @@
 <text x="0" y="223" xml:space="preserve">&#160;&#160;&#160;&#160;&#160;}</text>
 <text x="0" y="242" xml:space="preserve">},</text>
 <text x="0" y="261" xml:space="preserve">{},</text>
-<text x="0" y="280" xml:space="preserve">{<tspan fill="#BA2121">&#39;</tspan><tspan fill="#BA2121">connectivityCheck</tspan><tspan fill="#BA2121">&#39;</tspan>:&#160;<tspan fill="#BA2121">&#39;</tspan><tspan fill="#BA2121">true</tspan><tspan fill="#BA2121">&#39;</tspan>,&#160;<tspan fill="#BA2121">&#39;</tspan><tspan fill="#BA2121">connectivityTimeout</tspan><tspan fill="#BA2121">&#39;</tspan>:&#160;<tspan fill="#666666">120</tspan>}</text>
-<text x="0" y="299" xml:space="preserve"></text></g></svg>
+<text x="0" y="280" xml:space="preserve">{<tspan fill="#BA2121">&#39;</tspan><tspan fill="#BA2121">connectivityCheck</tspan><tspan fill="#BA2121">&#39;</tspan>:&#160;<tspan fill="#BA2121">&#39;</tspan><tspan fill="#BA2121">true</tspan><tspan fill="#BA2121">&#39;</tspan>,</text>
+<text x="0" y="299" xml:space="preserve">&#160;<tspan fill="#BA2121">&#39;</tspan><tspan fill="#BA2121">connectivityTimeout</tspan><tspan fill="#BA2121">&#39;</tspan>:&#160;<tspan fill="#666666">120</tspan>}</text>
+<text x="0" y="318" xml:space="preserve"></text></g></svg>
