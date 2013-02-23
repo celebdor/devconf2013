@@ -25,11 +25,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.12"
-     inkscape:cx="1620.9972"
-     inkscape:cy="1186.0273"
+     inkscape:zoom="57.926187"
+     inkscape:cx="1195.2091"
+     inkscape:cy="1331.4984"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer4"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1141"
@@ -5642,14 +5642,6 @@
        style="fill:none;stroke:#000000;stroke-width:1.79039001;stroke-opacity:1;display:inline" />
     <rect
        inkscape:label="#rect4124-6"
-       y="334.96503"
-       x="641.26819"
-       height="191.90222"
-       width="260.32785"
-       id="rect-base-arch"
-       style="fill:none;stroke:#000000;stroke-width:1.79039001;stroke-opacity:1;display:inline" />
-    <rect
-       inkscape:label="#rect4124-6"
        y="366.51733"
        x="641.56952"
        height="191.90222"
@@ -8534,12 +8526,12 @@
        id="rect-conf-vlan"
        style="fill:none;stroke:#000000;stroke-width:0.98485118;stroke-opacity:1;display:inline" />
     <rect
-       transform="matrix(0.95102018,0.3091288,-0.31096984,0.95041978,0,0)"
+       transform="matrix(0.95202387,0.30602376,-0.31411428,0.94938518,0,0)"
        inkscape:label="#rect4124-8"
-       y="-284.62415"
-       x="1574.0876"
-       height="86.069054"
-       width="146.78851"
+       y="-279.7446"
+       x="1573.9587"
+       height="84.707291"
+       width="145.77301"
        id="rect-intro-7-3-1-9"
        style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
     <text
@@ -13716,18 +13708,18 @@
      id="layer4"
      inkscape:label="screen_overlay">
     <g
-       transform="translate(211.18689,-311.56529)"
-       id="g62932">
+       id="g168267"
+       transform="translate(0,-0.1342606)">
       <rect
-         y="465.6257"
-         x="1000.7094"
+         y="154.06041"
+         x="1211.8964"
          height="5.172792"
          width="11.298879"
          id="rect55863"
          style="fill:#ffffff;fill-opacity:1;stroke:none" />
       <rect
-         y="465.53732"
-         x="1000.7546"
+         y="153.97203"
+         x="1211.9415"
          height="5.172792"
          width="11.298879"
          id="rect55863-9"
@@ -13737,92 +13729,85 @@
          id="rect-screen-empty"
          width="22.272192"
          height="15.367637"
-         x="988.97339"
-         y="462.09921"
+         x="1200.1603"
+         y="150.53392"
          inkscape:label="#rect54109" />
       <text
          sodipodi:linespacing="125%"
          id="text55865"
-         y="466.77155"
-         x="1000.7327"
+         y="155.20625"
+         x="1211.9197"
          style="font-size:1.42912865px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
          xml:space="preserve"><tspan
-           y="466.77155"
-           x="1000.7327"
+           y="155.20625"
+           x="1211.9197"
            id="tspan55867"
            sodipodi:role="line">Aggregate host info</tspan><tspan
            id="tspan55890"
-           y="468.55795"
-           x="1000.7327"
+           y="156.99266"
+           x="1211.9197"
            sodipodi:role="line">Validate commands</tspan><tspan
            id="tspan55892"
-           y="470.34436"
-           x="1000.7327"
+           y="158.77907"
+           x="1211.9197"
            sodipodi:role="line">Call hosts' VDSM</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text3180-9-2"
-         y="463.8461"
-         x="1003.4902"
+         y="152.59155"
+         x="1214.6771"
          style="font-size:1.85710204px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
          xml:space="preserve"><tspan
-           y="463.8461"
-           x="1003.4902"
+           y="152.59155"
+           x="1214.6771"
            sodipodi:role="line"
            id="tspan4118-6">:  engine</tspan></text>
     </g>
-    <g
-       transform="translate(160.36359,-311.7034)"
-       id="g62956">
-      <g
-         id="g62943">
-        <rect
-           inkscape:label="#rect54109"
-           y="462.10391"
-           x="1014.5341"
-           height="15.404593"
-           width="22.273458"
-           id="rect-screen-vdsm-resp"
-           style="fill:none;stroke:#000000;stroke-width:0.14635687;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-        <rect
-           style="fill:#ffffff;fill-opacity:1;stroke:none"
-           id="rect55863-9-0"
-           width="11.298879"
-           height="5.172792"
-           x="1026.075"
-           y="465.53006" />
-        <text
-           xml:space="preserve"
-           style="font-size:1.42912865px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
-           x="1026.2939"
-           y="466.68314"
-           id="text55865-0"
-           sodipodi:linespacing="125%"><tspan
-             sodipodi:role="line"
-             id="tspan55867-4"
-             x="1026.2939"
-             y="466.68314">Gather network info</tspan><tspan
-             sodipodi:role="line"
-             x="1026.2939"
-             y="468.46954"
-             id="tspan55890-5">Validate configuration</tspan><tspan
-             sodipodi:role="line"
-             x="1026.2939"
-             y="470.25595"
-             id="tspan55892-3">Apply configuration</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-size:1.85710204px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
-           x="1028.9738"
-           y="463.92755"
-           id="text3180-9-2-0"
-           sodipodi:linespacing="125%"><tspan
-             id="tspan4118-6-7"
-             sodipodi:role="line"
-             x="1028.9738"
-             y="463.92755">:  vdsm</tspan></text>
-      </g>
-    </g>
+    <rect
+       inkscape:label="#rect54109"
+       y="150.40051"
+       x="1174.8977"
+       height="15.404593"
+       width="22.273458"
+       id="rect-screen-vdsm-resp"
+       style="fill:none;stroke:#000000;stroke-width:0.14635687;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect55863-9-0"
+       width="10.712941"
+       height="5.172792"
+       x="1186.4386"
+       y="153.82666" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.42912865px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+       x="1186.6576"
+       y="154.97974"
+       id="text55865-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan55867-4"
+         x="1186.6576"
+         y="154.97974">Gather network info</tspan><tspan
+         sodipodi:role="line"
+         x="1186.6576"
+         y="156.76614"
+         id="tspan55890-5">Validate configuration</tspan><tspan
+         sodipodi:role="line"
+         x="1186.6576"
+         y="158.55255"
+         id="tspan55892-3">Apply configuration</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.85710204px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+       x="1189.3893"
+       y="152.4693"
+       id="text3180-9-2-0"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan4118-6-7"
+         sodipodi:role="line"
+         x="1189.3893"
+         y="152.4693">:  vdsm</tspan></text>
     <g
        transform="translate(348.74126,-290.98738)"
        id="g62928">
@@ -13885,6 +13870,14 @@
        id="rect-conf-gui-bond-clear"
        style="fill:none;stroke:#000000;stroke-width:0.48879275;stroke-opacity:1;display:inline"
        transform="matrix(0.99999985,5.547913e-4,-5.4223935e-4,0.99999985,0,0)" />
+    <rect
+       inkscape:label="#rect54109"
+       y="772.48431"
+       x="641.69427"
+       height="179.18288"
+       width="259.68832"
+       id="rect-base-arch"
+       style="fill:none;stroke:#000000;stroke-width:1.68659353;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
   </g>
   <script
      id="sozi-script"
