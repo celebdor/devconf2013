@@ -25,15 +25,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.6203867"
-     inkscape:cx="1325.7265"
-     inkscape:cy="989.11501"
+     inkscape:zoom="5.12"
+     inkscape:cx="1620.9972"
+     inkscape:cy="1186.0273"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1141"
-     inkscape:window-x="800"
+     inkscape:window-x="1024"
      inkscape:window-y="27"
      inkscape:window-maximized="1" />
   <defs
@@ -8534,12 +8534,12 @@
        id="rect-conf-vlan"
        style="fill:none;stroke:#000000;stroke-width:0.98485118;stroke-opacity:1;display:inline" />
     <rect
-       transform="matrix(0.95062793,0.31033295,-0.30976375,0.95081356,0,0)"
+       transform="matrix(0.95102018,0.3091288,-0.31096984,0.95041978,0,0)"
        inkscape:label="#rect4124-8"
-       y="-290.94611"
-       x="1573.8646"
-       height="88.940155"
-       width="151.15913"
+       y="-284.62415"
+       x="1574.0876"
+       height="86.069054"
+       width="146.78851"
        id="rect-intro-7-3-1-9"
        style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
     <text
