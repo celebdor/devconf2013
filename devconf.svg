@@ -25,15 +25,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.64"
-     inkscape:cx="1423.2173"
-     inkscape:cy="529.28563"
+     inkscape:zoom="5.12"
+     inkscape:cx="1293.8933"
+     inkscape:cy="168.68988"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1141"
-     inkscape:window-x="1024"
+     inkscape:window-height="1021"
+     inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1" />
   <defs
@@ -16705,7 +16705,7 @@
            id="tspan284172"
            sodipodi:role="line"
            x="1228.5201"
-           y="881.93597">#ovirt at Freenode</tspan><tspan
+           y="881.93597">#ovirt at OFTC.net</tspan><tspan
            id="tspan284312"
            style="font-weight:normal"
            sodipodi:role="line"
