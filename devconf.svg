@@ -10135,8 +10135,8 @@
        id="image42063"
        height="11.596085"
        width="21.143862"
-       xlink:href="/home/antoni/code/devconf2013/./network_tab.png"
-       sodipodi:absref="/home/antoni/code/devconf2013/./network_tab.png" />
+       xlink:href="./network_tab.png"
+       sodipodi:absref="./network_tab.png" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.98485118;stroke-opacity:1;display:inline"
        id="rect-configuration"
@@ -12837,7 +12837,7 @@
            x="1617.8617"
            y="649.59491" /></text>
       <image
-         xlink:href="/home/antoni/code/devconf2013/./gui_ipconfig.png"
+         xlink:href="./gui_ipconfig.png"
          width="42.630394"
          height="37.195011"
          id="image25400"
@@ -12846,8 +12846,8 @@
     </g>
     <image
        transform="matrix(0.99999773,-0.00213183,0.00213183,0.99999773,0,0)"
-       sodipodi:absref="/home/antoni/code/devconf2013/./setupnets_gui.png"
-       xlink:href="/home/antoni/code/devconf2013/./setupnets_gui.png"
+       sodipodi:absref="./setupnets_gui.png"
+       xlink:href="./setupnets_gui.png"
        width="75.052299"
        height="50.062721"
        id="image21230"
@@ -16858,8 +16858,8 @@
          id="image48801"
          x="964.13538"
          y="464.689"
-         xlink:href="/home/antoni/code/devconf2013/./network_subtab.png"
-         sodipodi:absref="/home/antoni/code/devconf2013/./network_subtab.png" />
+         xlink:href="./network_subtab.png"
+         sodipodi:absref="./network_subtab.png" />
       <rect
          style="fill:none;stroke:#000000;stroke-width:0.1419865;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
          id="rect-screen-sub"
@@ -16890,8 +16890,8 @@
          id="image51731"
          height="26.335007"
          width="26.137987"
-         xlink:href="/home/antoni/code/devconf2013/./gui_bond.png"
-         sodipodi:absref="/home/antoni/code/devconf2013/./gui_bond.png" />
+         xlink:href="./gui_bond.png"
+         sodipodi:absref="./gui_bond.png" />
       <rect
          inkscape:label="#rect4124-8"
          y="496.12683"
