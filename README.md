@@ -9,3 +9,7 @@ to be viewed with a browser (Firefox, Chromium), preferably with a
 
 All the svg models have been adapted from openclipart or they have
 been made for the occasion.
+
+
+LICENSE: devconf.svg is under CC BY-SA 3.0
+http://creativecommons.org/licenses/by-sa/3.0/
